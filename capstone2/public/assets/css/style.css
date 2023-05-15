@@ -1,0 +1,49 @@
+/* Body background color */
+body {
+  background-color: #F5F8FF;
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dguppies&psig=AOvVaw0h0xbbAc6mqSuWX0bYBgKA&ust=1683445961254000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLC05oWb4P4CFQAAAAAdAAAAABAE');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Form container styles */
+.col-md-5 {
+  background-color: #FFFFFF;
+  border-radius: 10px;
+}
+
+/* Heading styles */
+h4 {
+  color: #0047AB;
+  text-align: center;
+}
+
+/* Label and input styles */
+label {
+  color: #375E97;
+  font-weight: bold;
+}
+
+input {
+  border: none;
+  border-radius: 5px;
+  background-color: #ECEEF0;
+  padding: 10px;
+  color: #375E97;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Submit button styles */
+button[type="submit"] {
+  background-color: #0047AB;
+  color: #FFFFFF;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
+}
+
+button[type="submit"]:hover {
+  background-color: #002E5D;
+}
